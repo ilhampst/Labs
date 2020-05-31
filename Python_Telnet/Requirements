@@ -1,0 +1,7 @@
+Devices and OS used on GNS3:
+	• Network Automation (Ubuntu)
+	• (vios_l2-ADVENTERPRISEK9-M), Experimental Version 15.2
+	• i86bi-linux-l2-ipbasek9-i86bi-linux-l2-adventerprisek9-ms.15.2d.bin
+
+Note:
+At IOSv, if using telnet from Linux, only prompted password, if using IOU, will be prompted username and also password.
