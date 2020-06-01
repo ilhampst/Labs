@@ -1,6 +1,8 @@
-Topology for this lab can be seen here:
+# Telnet Lab with Python
 
-https://photos.app.goo.gl/gfVwu8PcpCZrufCX6
+## Topology for this lab can be seen here:
+
+<img src="https://photos.app.goo.gl/u4cbm2BuPaw7SMvy9" alt="Topology">
 
 I am using this topology to build the simple labs to test telnet function and config switch with python script natively.
 
