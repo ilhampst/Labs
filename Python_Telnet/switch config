@@ -1,0 +1,23 @@
+!
+interface Vlan1
+ no shutdown
+ ip address 192.168.99.1 255.255.255.0
+end
+!
+
+!
+username user privilege 15 secret cisco123
+!
+enable password cisco123
+!
+
+!
+line con 0
+line aux 0
+line vty 0 4
+ password cisco123
+ login
+ transport input telnet
+!
+!
+end
